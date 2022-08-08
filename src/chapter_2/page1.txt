@@ -1,1 +1,3 @@
-This is the first page of the second chapter
+This is the first page of Chapter 2.
+I edited this page,too.
+
